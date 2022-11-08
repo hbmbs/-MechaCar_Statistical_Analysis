@@ -5,6 +5,7 @@ The provided dataset has 50 prototypes with 6 variables, mainly the miles per ga
 An Rscript was used to conduct a linear regression model.
 ### Results
 ![Linear_Regression](images/linear_regression.PNG)
+
 The above picture shows a summary for the linear regression, the resulting model shows that:
 **MODEL:**
 mpg = -0.104e+02 + **Vehicle_length***6.267 + **Vehicle_weight***1.245e-03 + **Spoiler_angle***6.877e-02 + **Ground_clearance***3.546 + **AWD***-3.411
